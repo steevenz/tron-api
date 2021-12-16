@@ -19,7 +19,7 @@
     ],
 
     "require": {
-        "comely-io/data-types": "^1.0",
+        "steevenz/data-types": "dev-master",
         "guzzlehttp/guzzle": "^7.0",
         "iexbase/web3.php": "^2.0.1",
         "kornrunner/secp256k1": "^0.1.2",
